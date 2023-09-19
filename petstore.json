@@ -14,7 +14,7 @@
     }
   },
   "externalDocs": {
-    "description": "Find out more about Swagger",
+    "description": "Find out more about SwaggerHub",
     "url": "http://swagger.io"
   },
   "servers": [
